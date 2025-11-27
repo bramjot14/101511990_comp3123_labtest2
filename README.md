@@ -96,7 +96,7 @@ This screenshot displays the first part of the Postman GET request to the OpenWe
 
 4. Postman API Response 2
 
-This screenshot shows the remaining portion of the JSON response in Postman, confirming correct API usage.
+This screenshot shows the second part of the Postman GET request to the OpenWeatherMap API for Delhi.
 
 <img width="1862" height="853" alt="Postman API Response 2" src="https://github.com/user-attachments/assets/8bf05382-40bd-4ffc-b75a-d61fd54cf2ed" />
 
